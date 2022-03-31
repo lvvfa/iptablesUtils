@@ -8,8 +8,9 @@
 ## 用法
 
 
-```shell
+shell
 # 如果vps不能访问 raw.githubusercontent.com 推荐使用这个
+···
 wget --no-check-certificate -qO natcfg.sh http://www.arloor.com/sh/iptablesUtils/natcfg.sh && bash natcfg.sh
 ```
 或
